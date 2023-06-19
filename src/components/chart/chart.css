@@ -1,0 +1,10 @@
+.chart
+{
+    flex: 3;
+    box-shadow: 0 0 8px 2px lightgray;
+    border-radius: 4px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px 10px;
+}
